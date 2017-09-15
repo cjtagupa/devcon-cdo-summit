@@ -1,3 +1,2 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
-# devcon-cdo-summit
+# DevCon Summit: CDO Edition
+Responsive HTML5 Bootstrap 3 Landing Page
