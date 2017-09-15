@@ -96,7 +96,7 @@ ul li {
 .btn {
   border: 0;
   border-radius: 0;
-  padding: 6px 28px;
+  padding: 12px 40px;
   text-transform: uppercase;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
@@ -326,7 +326,7 @@ ul li {
   min-height: 100vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;
+  background: url(../images/backgrounds/header-2.png) no-repeat center center/cover;
   display: table;
 }
 .site-header::before {
