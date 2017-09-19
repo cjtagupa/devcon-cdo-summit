@@ -531,6 +531,30 @@ ul li {
   background: url(../images/partner/olx.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-djangogirlscdo {
+    background: url(../images/partner/community-djangogirlscdo.png) no-repeat center center/contain;
+}
+
+.partner .partner-box-gdgcdo {
+    background: url(../images/partner/community-gdgcdo.png) no-repeat center center/contain;
+}
+
+.partner .partner-box-itgx {
+    background: url(../images/partner/community-itgx.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-pytsada {
+    background: url(../images/partner/community-pytsada.png) no-repeat center center/contain;
+}
+.partner .partner-box-robogals {
+    background: url(../images/partner/community-robogals.png) no-repeat center center/contain;
+}
+.partner .partner-box-syntacticspink {
+    background: url(../images/partner/community-syntacticspink.png) no-repeat center center/contain;
+}
+.partner .partner-box-vrx {
+    background: url(../images/partner/community-vrx.png) no-repeat center center/contain;
+}
+
 /* 
  * 6.8 Section: FAQ
  */
