@@ -527,6 +527,10 @@ ul li {
 .partner .partner-box-nestle {
   background: url(../images/partner/nescafe.png) no-repeat center center/contain;
 }
+
+.partner .partner-box-digitalocean {
+    background: url(../images/partner/digitalocean.png) no-repeat center center/contain;
+}
 .partner .partner-box-olx {
   background: url(../images/partner/olx.png) no-repeat center center/contain;
 }
