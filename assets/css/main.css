@@ -534,6 +534,15 @@ ul li {
 .partner .partner-box-mozillaphilippines {
     background: url(../images/partner/mozillaphilippines.jpg) no-repeat center center/contain;
 }
+.partner .partner-box-aws {
+    background: url(../images/partner/aws.png) no-repeat center center/contain;
+}
+.partner .partner-box-github {
+    background: url(../images/partner/github.png) no-repeat center center/contain;
+}
+.partner .partner-box-microsoft {
+    background: url(../images/partner/microsoft.png) no-repeat center center/contain;
+}
 
 .partner .partner-box-olx {
   background: url(../images/partner/olx.png) no-repeat center center/contain;
