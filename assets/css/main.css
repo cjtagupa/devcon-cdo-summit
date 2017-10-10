@@ -547,7 +547,9 @@ ul li {
 .partner .partner-box-olx {
   background: url(../images/partner/olx.png) no-repeat center center/contain;
 }
-
+.partner .partner-box-grab {
+    background: url(../images/partner/grab.png) no-repeat center center/contain;
+}
 .partner .partner-box-djangogirlscdo {
     background: url(../images/partner/community-djangogirlscdo.png) no-repeat center center/contain;
 }
