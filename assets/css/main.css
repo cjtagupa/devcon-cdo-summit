@@ -580,6 +580,21 @@ ul li {
 .partner .partner-box-teapro {
     background: url(../images/partner/teapro.jpg) no-repeat center center/contain;
 }
+.partner .partner-box-ideaspace {
+    background: url(../images/partner/ideaspace.png) no-repeat center center/contain;
+}
+.partner .partner-box-phcare {
+    background: url(../images/partner/phcare.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-priva {
+    background: url(../images/partner/priva.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-pldt-enterprise {
+    background: url(../images/partner/pldt-enterprise.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-pldt-innolab {
+    background: url(../images/partner/pldt-innolab.png) no-repeat center center/contain;
+}
 
 /* 
  * 6.8 Section: FAQ
